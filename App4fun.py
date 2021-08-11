@@ -2,6 +2,7 @@ title="Welcome to a created quiz (by me) which will tell you which element you a
 question1=input("Do you like personality quizzes? Y-N:")
 y=("y")
 n=("n")
+print(title)
 print(question1)
 if (question1==y):
     print("Great! So now you will be asked 4 questions and you will have however long it takes to answer (I am very patient).")
